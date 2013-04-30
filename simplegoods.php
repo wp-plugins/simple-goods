@@ -3,6 +3,7 @@
     /*
     Plugin Name: Simple Goods
     Description: Easily sell from your WordPress website or blog. 
+    Stable tag: 0.1
     Version: 0.1
     Author: Simple Goods Co. 
     Author URI: https://www.simplegoods.co
