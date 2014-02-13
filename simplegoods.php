@@ -2,12 +2,12 @@
     
     /*
     Plugin Name: Simple Goods
-    Description: Easily sell from your WordPress website or blog. 
-    Stable tag: 0.1
-    Version: 0.1
+    Description: Add Simple Goods checkout directly to your WordPress site & blog. This plugin will turn any Simple Goods links (https://www.simplegoods.co/i/xxxxxxx) into a checkout popup automatically.
+    Stable tag: 0.11
+    Version: 0.11
     Author: Simple Goods Co. 
     Author URI: https://www.simplegoods.co
-    Plugin URI: https://www.simplegoods.co
+    Plugin URI: https://www.simplegoods.co/docs/#wordpress
     */
 
     define('SIMPLEGOODS_DIR', plugin_dir_url(__FILE__));
